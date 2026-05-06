@@ -1,0 +1,6 @@
+{
+  "appId": "com.aybay.tracker",
+  "appName": "আয়ব্যয়",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
